@@ -1,0 +1,101 @@
+# Header
+menu:
+  主页: /
+  搜索: http://live.swiftype.com/live?key=wn63uga7gV3vyuVSqc7M&url=http%3A%2F%2Fliuxiang.github.io%2F
+  所有文章: /archives
+  i love yuan: http://liuxiang.github.io/iloveyuan
+  i love yuan，Gallery: http://liuxiang.github.io/iloveyuan/FullPageImageGallery/photo.html
+  # 随笔: /tags/随笔
+
+# SubNav
+subnav:
+  github: "https://github.com/liuxiang"
+  #weibo: "http://weibo.com/u/2165660431"
+  rss: "/atom.xml"
+  #zhihu: "http://www.zhihu.com/people/liu-xiang-27"
+  #douban: "#"
+  mail: "mailto: liuxiang@wosaitech.com"
+  #facebook: "#"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.png
+
+#你的头像url
+avatar: /assets/blogImg/head.jpg
+#是否开启分享
+share: true
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+#friends: false
+#开启——
+friends:
+  正一的博客: http://jeremy017.github.io
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+
+
+# 参考`hexo-theme-next`: https://github.com/iissnan/hexo-theme-next/blob/master/_config.yml
+# 以下参数可能不起作用,因来自`hexo-theme-next`而不是当前的`hexo-theme-yilia`
+# Automatically scroll page to section which is under <!-- more --> mark.
+scroll_to_more: true
+
+# Automatically Excerpt
+auto_excerpt:
+  enable: false
+  length: 150
+  
+# Use Lato font
+use_font_lato: true
+
+# Swiftype Search API Key
+# swiftype_key:zc8MyjMX7hiVaqA4mPzP
+
+# Baidu Analytics ID
+#baidu_analytics:
+
+# Duoshuo ShortName
+#duoshuo_shortname:
+
+# Disqus
+#disqus_shortname:
+
+# Share
+#jiathis:
+
+# Share
+#duoshuo_share: true
+
+# Google Webmaster tools verification setting
+# See: https://www.google.com/webmasters/
+#google_site_verification:
+
+
+# Google Analytics
+#google_analytics:
